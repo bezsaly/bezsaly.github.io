@@ -9,7 +9,8 @@ body {
 }
 #header {
 	height: 353px; /* Висота шапки */
- background: url(images/header.png) no-repeat center bottom;}
+ background: url(images/header.png) no-repeat center bottom;
+}
 #nav {
 	background: #ff9999;
 }
