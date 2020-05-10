@@ -8,7 +8,7 @@ body {
 	height 600px;
 }
 #header {
-	height: 353px; /* Висота шапки */
+	height: 200px; /* Висота шапки */
  background: url(images/header.png) no-repeat center bottom;
 }
 #nav {
