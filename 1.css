@@ -8,8 +8,8 @@ body {
 	height 600px;
 }
 #header {
-	background: ;
-color: green;}
+	height: 353px; /* Висота шапки */
+ background: url(images/header.png) no-repeat center bottom;}
 #nav {
 	background: #ff9999;
 }
