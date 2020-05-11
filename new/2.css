@@ -1,0 +1,51 @@
+body {
+	background: white ;
+}
+#container {
+	background: white;
+	margin: 30px auto;
+	width: 1000px;
+	height 600px;
+}
+#header {
+	height: 200px; /* Висота шапки */
+ background: url(images/header.png) no-repeat left bottom;
+}
+#navbar {
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+        width: 150px;
+position: absolute;
+  	top: 100%;
+float: left;
+  	position: relative;
+      }
+      #navbar li {
+        border-left: 10px solid #666;
+        border-bottom: 1px solid #666;
+      }
+      #navbar a {
+        background-color: #949494;
+        color: #fff;
+        padding: 5px;
+        text-decoration: none;
+        font-weight: bold;
+        border-left: 5px solid #33ADFF;
+        display: block;
+	}
+	#navbar a:hover {
+  	background-color: #666;
+  	border-left: 5px solid #3333FF;
+	}
+	
+	#n {margin:10px 5px 15px 200px;
+	padding: 0;	
+	}
+#nav {
+	background: #ff9999;
+}
+
+	
+
+ 
