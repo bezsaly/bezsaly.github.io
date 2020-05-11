@@ -16,6 +16,10 @@ body {
         padding: 0;
         list-style-type: none;
         width: 150px;
+position: absolute;
+  	top: 100%;
+float: left;
+  	position: relative;
       }
       #navbar li {
         border-left: 10px solid #666;
@@ -34,16 +38,8 @@ body {
   	background-color: #666;
   	border-left: 5px solid #3333FF;
 	}
-	#navbar ul {
-  	
-  	position: absolute;
-  	top: 100%;
-	}
-	#navbar li {
- 	
-  	position: relative;
-	}
-	#n {margin:10px 5px 15px 170px;
+	
+	#n {margin:10px 5px 15px 200px;
 	padding: 0;	
 	}
 #nav {
