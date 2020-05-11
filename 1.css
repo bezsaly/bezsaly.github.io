@@ -30,6 +30,10 @@ body {
         border-left: 5px solid #33ADFF;
         display: block;
 	}
+	#navbar a:hover {
+  	background-color: #666;
+  	border-left: 5px solid #3333FF;
+	}
 #nav {
 	background: #ff9999;
 }
