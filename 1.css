@@ -34,6 +34,18 @@ body {
   	background-color: #666;
   	border-left: 5px solid #3333FF;
 	}
+	#navbar ul {
+  	
+  	position: absolute;
+  	top: 100%;
+	}
+	#navbar li {
+ 	
+  	position: relative;
+	}
+	#n {margin:10px 5px 15px 170px;
+	padding: 0;	
+	}
 #nav {
 	background: #ff9999;
 }
